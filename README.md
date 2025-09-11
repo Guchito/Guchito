@@ -13,11 +13,25 @@
 I'm a passionate **Full Stack Developer** from Argentina, specializing in modern web technologies. I love building interactive applications, from e-commerce platforms to games and productivity tools. My journey in development spans across multiple technologies, always focusing on creating efficient, scalable, and user-friendly solutions.
 
 ### 🎯 What I'm Currently Up To
-- 🔭 Building innovative web applications with **React**, **Next.js**, and **Astro**
-- 🌱 Exploring advanced **TypeScript** patterns and **Laravel** backend development
-- 💡 Creating open-source projects and contributing to the dev community
-- 🎮 Developing games and interactive experiences with vanilla JavaScript
-- 📱 Working on responsive, modern UI/UX designs
+Currently, I’m working as a **Full Stack Developer at [Nordic Charge](https://nordiccharge.com/)** ⚡, an e-mobility operations platform that brings the entire **CPO (Charge Point Operator) business** together in one place. Nordic Charge manages everything from **logistics, installation, integration, support, and hardware**, making EV charging operations smooth and scalable.  
+
+### 💼 Professional Focus
+At **Nordic Charge**, I work as a Full Stack Developer, focusing on:  
+- Partner Portal development with **PHP, Laravel & FilamentPHP**  
+- Lead project for a new company website with **Astro, React, TypeScript & Tailwind CSS**  
+- Driving projects that emphasize **performance, scalability & modern UI/UX**
+
+### 🤝 Volunteer Work
+I also contribute as a **Frontend Developer** for the [Nordic Blockchain Association](https://nordicblockchain.com/) 🌐, a nonprofit organization dedicated to spreading blockchain knowledge and fostering adoption.  
+- Supporting their mission by building and improving frontend experiences  
+- Collaborating with a team of blockchain enthusiasts and developers  
+
+### ✨ Personal Projects & Learning
+Beyond work, I love to:  
+- Build innovative web applications with **React**, **Next.js**, and **Astro**  
+- Dive into advanced **TypeScript** and **Laravel** backend concepts  
+- Contribute to open-source and share knowledge with the dev community   
+- Explore modern **UI/UX patterns** and experiment with design  
 
 ## 💻 Tech Stack
 
@@ -43,12 +57,16 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-EB3656?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Animation & Visualization
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
@@ -59,6 +77,7 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
 
 </div>
 
@@ -87,12 +106,12 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-Games-45B7D1?style=for-the-badge&logo=gamepad&logoColor=white" />
 <br><strong>Games</strong>
-<br><em>Pong, Tic-Tac-Toe, Star Wars</em>
+<br><em>Pong, Tic-Tac-Toe</em>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-Tools-FFA07A?style=for-the-badge&logo=tools&logoColor=white" />
 <br><strong>Tools</strong>
-<br><em>Crypto Tracker, Expenses</em>
+<br><em>Crypto Prices, Expense tracker</em>
 </td>
 </tr>
 </table>
@@ -170,7 +189,7 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 
 ## 🚀 Recent Activity & Focus
 
-<div align="center">
+<div align="left">
 
 ```text
 🔥 Currently Working On
@@ -182,7 +201,7 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 
 💡 Learning & Exploring
 ├── 🔍 Advanced TypeScript patterns
-├── 🚀 Next.js 15 features
+├── 🚀 Next.js 15
 ├── 🎭 Animation libraries (GSAP, Motion)
 ├── 🔧 Performance optimization
 └── 🌐 Modern deployment strategies
@@ -197,6 +216,8 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guchito&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Agustín's GitHub Stats" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guchito&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Agustín's Top Languages" />
+
+
 
 </div>
 
@@ -215,6 +236,11 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 - 🎮 **Creative Projects** - Games, interactive applications, and innovative web experiences
 - 📈 **Performance Optimized** - Focus on SEO, loading times, and user experience
 
+## ⚡ Quick Facts
+- 🛫 Private pilot (aviation is my hobby ✈️)
+- 🇦🇷 Argentinian living in Denmark
+- ☕ Fueled by coffee & curiosity
+
 ## 🌐 Let's Connect!
 
 <div align="center">
@@ -222,7 +248,7 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://agusgaggero.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agustin-gaggero)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guchito)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@agusgaggero.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agusgaggero@gmail.com)
 
 </div>
 
