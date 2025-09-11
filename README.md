@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Agustín Gaggero (@Guchito)
+# 👋 Hi, I'm Agustín Gaggero
 
 <div align="center">
 
