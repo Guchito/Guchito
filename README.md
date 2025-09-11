@@ -55,11 +55,47 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Motion](https://img.shields.io/badge/-Motion-FF0080?style=for-the-badge&logo=framer&logoColor=white)
 
+### Development Tools
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🎨 Project Categories
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-E--Commerce-FF6B6B?style=for-the-badge&logo=shopify&logoColor=white" />
+<br><strong>E-Commerce</strong>
+<br><em>Vinariam, Product Manager</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-Web%20Apps-4ECDC4?style=for-the-badge&logo=react&logoColor=white" />
+<br><strong>Web Apps</strong>
+<br><em>UpTask, Portfolio, CRM</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-Games-45B7D1?style=for-the-badge&logo=gamepad&logoColor=white" />
+<br><strong>Games</strong>
+<br><em>Pong, Tic-Tac-Toe, Star Wars</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-Tools-FFA07A?style=for-the-badge&logo=tools&logoColor=white" />
+<br><strong>Tools</strong>
+<br><em>Crypto Tracker, Expenses</em>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -129,6 +165,28 @@ I'm a passionate **Full Stack Developer** from Argentina, specializing in modern
 </td>
 </tr>
 </table>
+
+</div>
+
+## 🚀 Recent Activity & Focus
+
+<div align="center">
+
+```text
+🔥 Currently Working On
+├── 🎯 Modern React/TypeScript applications
+├── 🌟 Laravel backend development
+├── 🎨 Astro portfolio enhancements  
+├── 🎮 Interactive web games
+└── 📱 Responsive UI/UX design
+
+💡 Learning & Exploring
+├── 🔍 Advanced TypeScript patterns
+├── 🚀 Next.js 15 features
+├── 🎭 Animation libraries (GSAP, Motion)
+├── 🔧 Performance optimization
+└── 🌐 Modern deployment strategies
+```
 
 </div>
 
