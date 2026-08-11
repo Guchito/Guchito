@@ -194,44 +194,18 @@ _The glue between platforms_
 
 <div align="center">
 
-### 🎨 Project Categories
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-E--Commerce-FF6B6B?style=for-the-badge&logo=shopify&logoColor=white" />
-<br><strong>E-Commerce</strong>
-<br><em>Vinariam, Product Manager</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-Web%20Apps-4ECDC4?style=for-the-badge&logo=react&logoColor=white" />
-<br><strong>Web Apps</strong>
-<br><em>UpTask, Portfolio, CRM</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-Games-45B7D1?style=for-the-badge&logo=gamepad&logoColor=white" />
-<br><strong>Games</strong>
-<br><em>Pong, Tic-Tac-Toe</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-Tools-FFA07A?style=for-the-badge&logo=tools&logoColor=white" />
-<br><strong>Tools</strong>
-<br><em>Crypto Prices, Expense tracker</em>
-</td>
-</tr>
-</table>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [UpTask - Project Management](https://github.com/Guchito/UpTask)
+### 🏃 [Gunna — AI Running Coach](https://github.com/Guchito/running-coach)
 
-_MERN Stack Collaboration Tool_
+_Training log with a coach that knows your data_
 
-- **Tech**: TypeScript, React, Node.js, Express, MongoDB
-- **Features**: Project organization, task assignment, team collaboration
-- **Architecture**: Full-stack MERN application with modern UI
+- **Tech**: Next.js, TypeScript, PostgreSQL, Tailwind, Claude + free NVIDIA models
+- **Features**: `.fit`/CSV parsing into splits, HR zones and running-form metrics; Riegel race projection; streaming AI chat with full training context
+- **Details**: scrypt + JWT auth, per-user data scoping, automatic Google Drive import
+- **Live**: [running-coach-flame.vercel.app](https://running-coach-flame.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -249,48 +223,24 @@ _Modern Astro-powered Website_
 <tr>
 <td width="50%" valign="top">
 
-### 🍷 [Vinariam - Wine E-commerce](https://github.com/Guchito/vinariam)
+### 🎯 [UpTask - Project Management](https://github.com/Guchito/UpTask)
 
-_Full E-commerce Platform_
+_MERN Stack Collaboration Tool_
 
-- **Tech**: Node.js, Express, EJS, MySQL, Sequelize
-- **Features**: Product catalog, user authentication, shopping cart
-- **Scale**: Complete e-commerce solution with payment integration
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 [Crypto Price Tracker](https://github.com/Guchito/crypto)
-
-_Real-time Cryptocurrency Monitor_
-
-- **Tech**: JavaScript, API integration
-- **Features**: Live price updates, market analysis
-- **Focus**: Clean UI with real-time data visualization
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 [Laravel Job Board](https://github.com/Guchito/Laragigs)
-
-_Professional Job Listings Platform_
-
-- **Tech**: PHP, Laravel, Blade templates
-- **Features**: Job posting, search, user profiles
-- **Modern**: Laravel 12 with modern PHP patterns
+- **Tech**: TypeScript, React, Node.js, Express, MongoDB
+- **Features**: Project and task CRUD, task status history, team roles, notes
+- **Auth**: JWT, email confirmation, password reset flows
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Game Collection](https://github.com/Guchito/Vanilla-JS-Pong)
+### 🛠️ [Products Manager](https://github.com/Guchito/Product-Manager)
 
-_Interactive Web Games_
+_Full-stack CRUD application_
 
-- **Tech**: Vanilla JavaScript, React
-- **Games**: Pong, Tic-Tac-Toe, Star Wars themed apps
-- **Focus**: Pure JavaScript game development
+- **Tech**: TypeScript, React, Node.js, Express, PostgreSQL, Tailwind
+- **Features**: Product management, validation, logging, Swagger-documented API
+- **Testing**: Jest + Supertest across unit and integration suites
 
 </td>
 </tr>
@@ -317,22 +267,6 @@ _Interactive Web Games_
 ├── 🔧 Performance optimization
 └── 🌐 Modern deployment strategies
 ```
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guchito&theme=github_dark" alt="Agustín's GitHub Stats" />
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guchito&theme=github_dark" alt="Agustín's Top Languages" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Guchito&theme=dark&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
